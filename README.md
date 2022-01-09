@@ -41,16 +41,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ![GIF](https://i.imgur.com/8vwvCco.gif)
 
 ## Created Backend Files
-<br>
-
 - [x]  data.ts (backend) ✅
 - [x]  type.ts (backend) ✅
-- [x]  Mercury ✅
 
 <br>
 
 ## Created Components
-<br>
-
 - [x]  Components > serviceCard.tsx (Frontend) ✅
 
+<br>
+OBS: Inclusão do component > serviceCard em pages > index.tsx ✅
