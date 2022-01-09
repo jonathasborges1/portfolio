@@ -7,9 +7,10 @@ const Sidebar = () => {
     return(
         <div>
             <img className='w-32 h-32 mx-auto rounded-full' src="https://i.imgur.com/ZJUixSM.jpg" alt="user avatar" />
-            <h3 className='my-4 text-3xl font-medium tracking-wider font-kaushan'>
-                <span className='text-green'> Jonathas </span> 
-                Borges
+            <h3 className='my-4 text-3xl font-medium font-kaushan'>
+                Jonathas
+                <span className='tracking-wider text-green'> Borges  </span>  
+                
             </h3>
             <p className='bg-gray-200'>Web Developer</p>
             <a href="" 
