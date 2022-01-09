@@ -23,7 +23,7 @@ const Navbar = () => {
     const {pathname} = useRouter()
 
     useEffect( () => {
-        if(pathname === '/') setActiveItem('about')
+        if(pathname === '/') setActiveItem('Sobre')
         if(pathname === '/projects') setActiveItem('Projects')
         if(pathname === '/resume') setActiveItem('Resume')
 

@@ -36,13 +36,18 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 <br>
 
-## Updated Results v0.0.4
+## Updated Results v0.0.5 e v0.0.6
 
-![GIF](https://i.imgur.com/jZJDB5P.gif)
+![GIF](https://i.imgur.com/8vwvCco.gif)
 
-Created Pages
-- project.tsx
-- resume.tsx
+## Created Backend Files
+- [x]  data.ts (backend) ✅
+- [x]  type.ts (backend) ✅
 
-Created Components
-- Navbar.tsx
+<br>
+
+## Created Components
+- [x]  Components > serviceCard.tsx (Frontend) ✅
+
+<br>
+OBS: Inclusão do component > serviceCard em pages > index.tsx ✅
