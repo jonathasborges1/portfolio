@@ -36,18 +36,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 <br>
 
-## Updated Results v0.0.5 e v0.0.6
+## Updated Results v0.0.7
 
-![GIF](https://i.imgur.com/8vwvCco.gif)
+![GIF](https://i.imgur.com/XYF3JlC.gif)
 
 ## Created Backend Files
-- [x]  data.ts (backend) ✅
-- [x]  type.ts (backend) ✅
-
-<br>
-
-## Created Components
-- [x]  Components > serviceCard.tsx (Frontend) ✅
-
-<br>
-OBS: Inclusão do component > serviceCard em pages > index.tsx ✅
+- inserir lista de skill(language) e tools no arquivo data.ts ✅
+- Implementar component Bar.ts ✅
+- Implementar Page > resume.tsx ✅
+	- composto por componente bar.tsx
+	- composto por language, tools do arquivo data.ts 
