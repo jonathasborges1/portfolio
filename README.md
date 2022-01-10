@@ -36,13 +36,18 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 <br>
 
-## Updated Results v0.0.7
+## Updated Results v0.0.8
 
-![GIF](https://i.imgur.com/XYF3JlC.gif)
+![GIF](https://i.imgur.com/X6Og60U.gif)
 
-## Created Backend Files
-- inserir lista de skill(language) e tools no arquivo data.ts ✅
-- Implementar component Bar.ts ✅
-- Implementar Page > resume.tsx ✅
-	- composto por componente bar.tsx
-	- composto por language, tools do arquivo data.ts 
+## Created
+implementar dark mode ✅
+- Alterar o arquivo tailwindcss
+- instalar npm i next-themes
+- inserir botao em components > sidebar.tsx e importar a biblioteca next-theme
+
+Necessário inserir  ThemeProvider em app.tsx
+
+Necessário inserir no body (_document.tsx) os estilos - "dark:from-dark-500    dark:to-dark-700    dark:text-white"
+
+Foi necessário inserir o individualmente o estilo dark no componente sidebar.tsx
