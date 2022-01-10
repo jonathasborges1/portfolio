@@ -44,7 +44,7 @@ const Sidebar = () => {
                     <span> borgesux@gmail.com </span>
                 </div>
                 
-                <p className='my-2' >Toggle</p>
+            
             </div>
 
             {/* Email Button */}
